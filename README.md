@@ -46,7 +46,7 @@ the best pieces every month.
 
 ## 🏫 About MDIC
 
-Mymensingh Diocesan Institute of Commerce
+Manarat Dhaka International School and College
 Creative Writing Club — established to celebrate 
 student literary talent across all forms of writing.
 ```
