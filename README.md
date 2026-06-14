@@ -29,15 +29,6 @@ the best pieces every month.
 - **Hosting** — Vercel
 - **Design** — Figma
 
-## 👥 The Team
-
-| Name | Role | Responsibility |
-|------|------|----------------|
-| Sadif | Role 1 | UI Design + Homepage |
-| Ismail | Role 2 | Pages + Submission Form |
-| Faiyaz | Role 3 | DevOps + GitHub + Vercel + API Deployment |
-| Takrim Areefin | Role 4 | Database Architecture + API Connection |
-
 
 
 ## 📌 Project Status
